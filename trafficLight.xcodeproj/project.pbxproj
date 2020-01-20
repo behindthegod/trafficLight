@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B1FB344123D1D88B00FA6596 /* square.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = square.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1FB344123D1D88B00FA6596 /* trafficLight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = trafficLight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FB344423D1D88B00FA6596 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1FB344623D1D88B00FA6596 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B1FB344823D1D88B00FA6596 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B1FB344223D1D88B00FA6596 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B1FB344123D1D88B00FA6596 /* square.app */,
+				B1FB344123D1D88B00FA6596 /* trafficLight.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = square;
 			productName = square;
-			productReference = B1FB344123D1D88B00FA6596 /* square.app */;
+			productReference = B1FB344123D1D88B00FA6596 /* trafficLight.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B1FB343C23D1D88B00FA6596 /* Build configuration list for PBXProject "square" */;
+			buildConfigurationList = B1FB343C23D1D88B00FA6596 /* Build configuration list for PBXProject "trafficLight" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "-7k.square";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = trafficLight;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "-7k.square";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = trafficLight;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B1FB343C23D1D88B00FA6596 /* Build configuration list for PBXProject "square" */ = {
+		B1FB343C23D1D88B00FA6596 /* Build configuration list for PBXProject "trafficLight" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B1FB345323D1D88D00FA6596 /* Debug */,

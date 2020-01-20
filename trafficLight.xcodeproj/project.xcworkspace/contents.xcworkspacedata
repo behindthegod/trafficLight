@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:square.xcodeproj">
+      location = "self:/Users/57k/Desktop/STUDY/square/trafficLight.xcodeproj">
    </FileRef>
 </Workspace>
